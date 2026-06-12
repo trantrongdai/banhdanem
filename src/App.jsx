@@ -1,3 +1,5 @@
+import React from "react";
+
 const ingredients = [
   "Đa nem: 2 túi, chọn loại để rán, có thể dùng loại tròn hoặc hình chữ nhật.",
   "Thịt nạc: 350g.",
